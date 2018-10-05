@@ -1,0 +1,16 @@
+.burgerContainer {
+    display: inline-block;
+    vertical-align: top;
+}
+
+body {
+    background: url("../img/burger.jpg")
+    font-family: "Coiny", cursive, serif;
+    font-size:16px;
+}
+
+#burger-image{
+    width: 20%;
+    position:relative;
+    left:40%
+}
