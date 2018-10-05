@@ -4,9 +4,9 @@
 }
 
 body {
-    background: url("../img/burger.jpg")
+    background-image: url("../img/burger.jpg");
     font-family: "Coiny", cursive, serif;
-    font-size:16px;
+    font-size:24px;
 }
 
 #burger-image{
